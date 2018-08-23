@@ -2,4 +2,4 @@
 
 sudo apt install xclip
 curl https://getmic.ro | bash
-mv micro /usr/local/bin/
+sudo mv micro /usr/local/bin/
